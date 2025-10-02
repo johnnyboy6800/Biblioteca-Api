@@ -4,6 +4,7 @@ from jwt.exceptions import InvalidTokenError
 from models import schemas
 
 
+
 Secrect_key = "dec601be5976230de6b4c5621278ebce78c867cd2752c0dd6d78e39a4a04a1e4"
 Algorithm = "HS256"
 ACCESS_TOKEN_EXPIRES_MINUTES = 30
