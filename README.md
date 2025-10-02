@@ -37,7 +37,8 @@ fastapi dev
 ```bash
 http://127.0.0.1:8000/docs
 ```
-
+## Swagger
+<img width="1505" height="864" alt="Captura de tela de 2025-10-02 12-36-53" src="https://github.com/user-attachments/assets/1ea6b34c-2c97-4671-b45c-16c5bd450735" />
 
 
 
