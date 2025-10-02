@@ -6,8 +6,6 @@ Com o diferencial de ter um sistema de autenticação utilizando jwt token e oau
 Através do Login do usuário, o mesmo pode manipular os livros armazenados no banco.
 Caso não tenha nenhum usuário logado, você não poderá alterar nenhuma informação pertencente aos livros
 
-Para realizar o login basta clicar no botão "authorize" na página da documentação swager, basta acrescentar "/docs/" ao final da url.
-
 ---
 
 # API - Guia de Execução
