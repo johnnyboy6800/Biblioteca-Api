@@ -5,7 +5,7 @@ Siga os passos abaixo para rodar localmente:
 
 ---
 
-## 1. Criar e ativar o ambiente virtual
+##  Criar e ativar o ambiente virtual
 
 Antes de rodar a aplicação, é necessário criar um ambiente virtual para isolar as dependências do projeto.
 
@@ -25,15 +25,15 @@ python -m venv .venv
 python -m venv .venv
 .venv\Scripts\Activate.ps1
 ```
-### Instale as Dependências
+## Instale as Dependências
 ```bash
 pip install -r requirements.txt
 ```
-### Para executar a aplicação
+## Para executar a aplicação
 ```bash
 fastapi dev
 ```
-### Para acessar a documentação (Swagger)
+## Para acessar a documentação (Swagger)
 ```bash
 http://127.0.0.1:8000/docs
 ```
