@@ -1,3 +1,15 @@
+# Descrição
+Esta api possui as seguintes funcionalidades
+
+Modelo CRUD(Create, update, delete) para gerênciamento de livros e o mesmo para usuários.
+Com o diferencial de ter um sistema de autenticação utilizando jwt token e oauth2.
+Através do Login do usuário, o mesmo pode manipular os livros armazenados no banco.
+Caso não tenha nenhum usuário logado, você não poderá alterar nenhuma informação pertencente aos livros
+
+Para realizar o login basta clicar no botão "authorize" na página da documentação swager, basta acrescentar "/docs/" ao final da url.
+
+---
+
 # API - Guia de Execução
 
 Este projeto utiliza **FastAPI** para construção da API.  
